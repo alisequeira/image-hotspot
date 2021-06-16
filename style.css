@@ -10,6 +10,7 @@ html {
 body {
   background-color: azure;
   width: 100%;
+  height: 100%;
 }
 section {
   height: 100vh;
