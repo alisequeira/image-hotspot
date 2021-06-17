@@ -8,6 +8,7 @@ const container = document.querySelector(".container");
 //Event listener
 window.addEventListener("DOMContentLoaded", contentPosition);
 window.addEventListener("resize", contentPosition);
+window.addEventListener("load", contentPosition);
 
 //It will dynamically positioned our content every time when we call the function
 function contentPosition() {
